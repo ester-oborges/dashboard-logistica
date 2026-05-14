@@ -14,7 +14,7 @@ O dashboard precisava apresentar os seguintes KPIs:
 
 O dashboard original apresentava diversos problemas de visualização e experiência do usuário, como excesso de informação condensada, falta de hierarquia visual, baixa legibilidade, gráficos inadequados para alguns tipos de dados, pouco espaçamento entre elementos e dificuldade para encontrar informações rapidamente.
 
-Para tornar a leitura mais confortável e intuitiva, reduzi a densidade visual, permitindo que o usuário "batesse o olho" e captasse rapidamente os principais indicadores. Também criei espaçamentos mais equilibrados entre gráficos, textos e bordas, trazendo mais respiro para a composição visual.
+Para tornar a leitura mais confortável e intuitiva, reduzi a densidade visual, permitindo que o usuário "batesse o olho" e captasse rapidamente os principais indicadores. Também criei espaçamentos mais equilibrados entre gráficos, textos e bordas, para trazer mais respiro para a composição visual.
 
 Organizei os elementos seguindo uma hierarquia mais clara, exibindo primeiramente os principais KPIs e os botões de segmentação interativos. Dessa forma, o usuário identifica rapidamente os indicadores mais importantes e percebe imediatamente que existem filtros disponíveis para interação.
 
