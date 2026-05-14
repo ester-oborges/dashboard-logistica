@@ -15,4 +15,4 @@ global_ecommerce_dashboard/
 ### Como Usar
 1. Baixe o arquivo .pbix
 2. Abra no Power BI
-3. Explore o dashboard e com filtros interativos
+3. Explore o dashboard com filtros interativos
