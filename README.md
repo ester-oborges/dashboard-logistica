@@ -6,7 +6,7 @@
 
 ### Estrutura do Projeto
 ```
-global_ecommerce_dashboard/
+dashboard-logistica/
 │
 ├── dataset.xlsx
 ├── dashboard-logistica.pbix
